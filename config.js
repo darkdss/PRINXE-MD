@@ -137,8 +137,8 @@ global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
-
-
+global.session_id = Prince~xxh3zS5S#Iy7lSXQhywni_reVr12H68jZgA9TF0lipeVW7o3wJvo'
+global.always_online = 'false'
 //Reactions
 global.wait = '*📥 `𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙄𝙉𝙂 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀 𝙒𝘼𝙄𝙏...`*\n*▰▰▰▱▱▱▱▱*'
 global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
